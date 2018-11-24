@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="da3404b6bffd4027a7bc6c00c21d4e66" Name="Diagram1">
+        <EntityTypeShape EntityType="DnpAssignmentModel.UserTable" Width="2.875" PointX="0.875" PointY="0.5" IsExpanded="false" />
+        <EntityTypeShape EntityType="DnpAssignmentModel.User" Width="2.625" PointX="1.875" PointY="1.75" />
+        <EntityTypeShape EntityType="DnpAssignmentModel.DailyWorkout" Width="1.5" PointX="5.25" PointY="1.625" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
